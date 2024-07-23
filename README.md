@@ -43,6 +43,9 @@ There are six patterns of interest for this competition:
     Other
 Detailed explanations of these patterns are available in the competition overview.
 
+## Contributors
+[Nandani Daga](https://github.com/Nandanidaga)
+
 ## Evaluation
 
 Submissions are evaluated on the Kullback Liebler divergence between the predicted probability and the observed target.
