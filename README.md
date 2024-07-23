@@ -44,7 +44,7 @@ There are six patterns of interest for this competition:
 Detailed explanations of these patterns are available in the competition overview.
 
 ## Contributors
-[Nandani Daga](https://github.com/Nandanidaga)
+- **Nandani Daga** - [GitHub](https://github.com/Nandanidaga)
 
 ## Evaluation
 
