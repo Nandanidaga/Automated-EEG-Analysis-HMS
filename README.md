@@ -60,6 +60,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## References
 
-    Kaggle Competition(https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification) 
+    ["Kaggle Competition"](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification) 
+
     EEG Talk - ACNS Critical Care EEG Terminology 2021
 
