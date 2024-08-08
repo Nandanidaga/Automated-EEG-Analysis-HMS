@@ -24,6 +24,7 @@ python scripts/preprocess.py
 Train the model using the prepared data:
 python scripts/train_model.py
 
+
 ## Model Evaluation
 Evaluate the trained model on the test dataset
 python scripts/evaluate_model.py
